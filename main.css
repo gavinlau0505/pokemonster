@@ -1,0 +1,54 @@
+.pokermonster{
+	padding: 5px 5px;
+	margin: 5px 5px;
+
+}
+
+img {
+  border-radius: 50%;
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+          transition:         transform .8s ease-in-out;
+}
+img:hover {
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
+
+table {  
+    color: #333;
+    width: 550px; 
+    border-collapse: 
+    collapse; border-spacing: 0; 
+}
+
+td, th {  
+    border: 1px solid transparent; 
+    height: 30px; 
+    transition: all 0.3s;  
+}
+
+th {  
+    background: #DFDFDF;  
+}
+
+td {  
+    text-align: center;
+}
+
+tr td:hover { background: #666; color: #FFF; }  
+
+.pagination {
+    padding: 17px;
+    margin-bottom: 17px;
+}
+.page {
+    padding: 0px 3px;
+    margin-right: 4px;
+    text-decoration: none;
+    color:blue;
+   }
+
+.elevator{
+	text-decoration: none;
+	padding: 15px 15px;
+}
