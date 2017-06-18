@@ -1,0 +1,9 @@
+- The loading time of the page ahould be minimalise. The size of pictures could impose an impact on this.
+
+- No excessive code should be written to minimalise the loading time.
+
+- The compatibility of the content/table on different browers.
+
+- The links are working (e.g from cheatsheet to dive deeper).
+
+- The effective use of Class and ID.
